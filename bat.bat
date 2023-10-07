@@ -1,0 +1,1 @@
+shutdown -s -c bye -t 0
